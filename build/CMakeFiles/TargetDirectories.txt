@@ -1,0 +1,6 @@
+J:/sipeed/k210/apu_test/Maxi_go_MicArray/build/CMakeFiles/edit_cache.dir
+J:/sipeed/k210/apu_test/Maxi_go_MicArray/build/CMakeFiles/apu_test.dir
+J:/sipeed/k210/apu_test/Maxi_go_MicArray/build/CMakeFiles/rebuild_cache.dir
+J:/sipeed/k210/apu_test/Maxi_go_MicArray/build/lib/CMakeFiles/rebuild_cache.dir
+J:/sipeed/k210/apu_test/Maxi_go_MicArray/build/lib/CMakeFiles/kendryte.dir
+J:/sipeed/k210/apu_test/Maxi_go_MicArray/build/lib/CMakeFiles/edit_cache.dir

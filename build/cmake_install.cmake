@@ -1,4 +1,4 @@
-# Install script for directory: J:/sipeed/k210/apu_test
+# Install script for directory: J:/sipeed/k210/apu_test/Maxi_go_MicArray
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -29,7 +29,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("J:/sipeed/k210/apu_test/build/lib/cmake_install.cmake")
+  include("J:/sipeed/k210/apu_test/Maxi_go_MicArray/build/lib/cmake_install.cmake")
 
 endif()
 
@@ -41,5 +41,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "J:/sipeed/k210/apu_test/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "J:/sipeed/k210/apu_test/Maxi_go_MicArray/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

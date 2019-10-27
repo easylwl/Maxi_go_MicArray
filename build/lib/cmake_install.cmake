@@ -1,4 +1,4 @@
-# Install script for directory: J:/sipeed/k210/apu_test/lib
+# Install script for directory: J:/sipeed/k210/apu_test/Maxi_go_MicArray/lib
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
