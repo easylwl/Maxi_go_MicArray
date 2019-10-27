@@ -65,6 +65,7 @@ int main(void)
 	sysctl_pll_set_freq(SYSCTL_PLL2, 45158400UL);
 	printk("git id: %u\n", sysctl->git_id.git_id);
 	printk("init start.\n");
+	printk("init start22.\n");
 	clear_csr(mie, MIP_MEIP);
 	init_all();
 	printk("init done.\n");
